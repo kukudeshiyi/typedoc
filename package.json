@@ -1,0 +1,19 @@
+{
+  "name": "typedoc",
+  "version": "0.0.0",
+  "description": "Documentation generator for TypeScript projects",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitlab@git.garena.com:liqi.shi/typedoc.git"
+  },
+  "author": "liqi.shi",
+  "license": "ISC",
+  "dependencies": {
+    "globby": "^13.1.2",
+    "typescript": "^4.7.4"
+  }
+}
