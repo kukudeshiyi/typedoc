@@ -12,12 +12,8 @@
   "bin": {
     "typedoc": "./bin.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "gitlab@git.garena.com:liqi.shi/typedoc.git"
-  },
-  "author": "liqi.shi",
-  "license": "ISC",
+  "author": "yi.shi",
+  "license": "MIT",
   "dependencies": {
     "chalk": "4.1.2",
     "doctrine": "^3.0.0",
